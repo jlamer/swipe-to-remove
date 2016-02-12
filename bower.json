@@ -1,0 +1,11 @@
+{
+  "name": "swipe-to-remove",
+  "description": "Fork of swipe-to-remove from FavishInc",
+  "homepage": "https://github.com/jlamer/swipe-to-remove",
+  "main": "src/item-swipe.js",
+  "dependencies": {
+    "angular": "1.5.0",
+    "angular-touch": "^1.5.0",
+    "angular-animate": "^1.5.0",
+  }
+}
